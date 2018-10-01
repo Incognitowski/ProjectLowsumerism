@@ -1,5 +1,5 @@
-<h1>Project Lowsumerism<h1>
-<h3>Project developed as part of a research initiation program.<h3>
+<h1>Project Lowsumerism</h1>
+<h3>Project developed as part of a research initiation program.</h3>
 
 Lowsumerism, the art of consuming consciously. This project involves creating a marketplace for the students and collaborators of Centro Universitário de União da Vitória (UNIUV) to trade products and services, making use of a coin exclusive to the platform.
 
