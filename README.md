@@ -30,3 +30,5 @@ Lowsumerism, the art of consuming consciously. This project involves creating a 
 
 <h4>More rules should be added as the development and testing of this database continues.</h4>
 
+![This should be the database image...](https://raw.githubusercontent.com/Incognitowski/ProjectLowsumerism/master/DatabaseModel.png)
+
