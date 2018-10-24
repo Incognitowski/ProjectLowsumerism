@@ -3,6 +3,18 @@
 
 Lowsumerism, the art of consuming consciously. This project involves creating a marketplace for the students and collaborators of Centro Universitário de União da Vitória (UNIUV) to trade products and services, making use of a coin exclusive to the platform.
 
+<h3>Set up instructions</h3>
+<ol>
+  <li>Clone this repository in any folder in your system.</li>
+  <li>Fire up you terminal of choice (<a href="http://cmder.net/">Ever heard of Cmder?</a>)</li>
+  <li>cd into the lowsumerism folder</li>
+  <li>run <code>cp .env.example .env</code></li>
+  <li>Set up your <code>.env</code> file</li>
+  <li>Run <code>npm install</code></li>
+  <li>Run <code>npm run dev</code></li>
+  <li>Run <code>composer update</code></li>
+</ol>
+
 <h3>Database Rules:</h3>
 <ol>
   <li>
